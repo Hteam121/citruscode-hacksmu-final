@@ -1,0 +1,11 @@
+.office {
+    display: flex;
+    flex-direction: column;
+    justify-content: center; /* Optionally center the image horizontally */
+    align-items: center; /* Optionally center the image vertically */
+}
+
+.office img {
+    max-width: 100%;
+    height: auto;
+}
